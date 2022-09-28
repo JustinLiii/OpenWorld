@@ -3,9 +3,10 @@
   <PropertyGroup>
     <OutputType>Exe</OutputType>
 	<RuntimeIdentifiers>linux-arm64</RuntimeIdentifiers>
-    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <TargetFramework>net6.0</TargetFramework>
     <RootNamespace>Open_World_Server</RootNamespace>
     <Platforms>AnyCPU;ARM32;ARM64</Platforms>
+    <Configurations>Debug;Release;Relese_linux</Configurations>
   </PropertyGroup>
 
 </Project>
