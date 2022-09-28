@@ -6,7 +6,7 @@
     <TargetFramework>net6.0</TargetFramework>
     <RootNamespace>Open_World_Server</RootNamespace>
     <Platforms>AnyCPU;ARM32;ARM64</Platforms>
-    <Configurations>Debug;Release;Relese_linux</Configurations>
+    <Configurations>Debug;Release</Configurations>
   </PropertyGroup>
 
 </Project>
